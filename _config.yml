@@ -11,7 +11,7 @@ collections:
     output: true
 email: 
 description: A jekyll template for landing pages, portfolio and blogging
-baseurl: ''
+baseurl: 
 url: https://jekynewage.github.io
 data-ad-slot: 2973388149
 data-ad-client: ca-pub-9204963049240271
